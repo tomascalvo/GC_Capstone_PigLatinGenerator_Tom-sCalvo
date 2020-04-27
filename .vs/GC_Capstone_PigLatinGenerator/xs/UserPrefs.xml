@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3088E878-E262-46BD-A186-E6289E2F0FA7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GC_Capstone_PigLatinGenerator/Program.cs">
+    <Files>
+      <File FileName="GC_Capstone_PigLatinGenerator/Program.cs" Line="142" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GC_Capstone_PigLatinGenerator" expanded="True">
+            <Node name="GC_Capstone_PigLatinGenerator" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.GC__Capstone__PigLatinGenerator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
